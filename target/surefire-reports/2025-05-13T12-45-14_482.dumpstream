@@ -1,4 +1,4 @@
-# Created at 2025-05-12T16:14:40.228
+# Created at 2025-05-13T12:45:14.783
 Boot Manifest-JAR contains absolute paths in classpath 'D:\bagian kuliah\@mulai ngoding\belajar-java-jawa\learn-junit\learn-junit-anas\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
