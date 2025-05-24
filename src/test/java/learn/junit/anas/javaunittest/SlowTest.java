@@ -34,4 +34,6 @@ public class SlowTest {
 
     //Pengenalan Mocking 2.15.00
     //https://www.youtube.com/watch?v=0jreaBRIOTo&list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX&index=34
+
+    // Slide : https://docs.google.com/presentation/d/1jaRXrZbMDCAubVs3annSlP2Mw2aTl67lqW40ysVRvKg/edit?slide=id.g8c7c984eac_0_588#slide=id.g8c7c984eac_0_588
 }
